@@ -1,0 +1,26 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=1A:8F:6B:F1:E7:CD:05:48:0E:09:64:45:E2:21:83:5B:7C:80:69:96%3Bcom.example.mytrackernew
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    1A:8F:6B:F1:E7:CD:05:48:0E:09:64:45:E2:21:83:5B:7C:80:69:96
+
+    SHA-1 certificate fingerprint:
+    1A:8F:6B:F1:E7:CD:05:48:0E:09:64:45:E2:21:83:5B:7C:80:69:96
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyAgxXSuLtsojP5xhoQ3Lc7OxnH49EVK27c
+    </string>
+</resources>
